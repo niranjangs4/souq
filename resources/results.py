@@ -1,5 +1,5 @@
 import os
-package = os.path.join(os.getcwd().rsplit('\\',1)[0],'output')
+package = os.getcwd()
 
 
 output_config = dict(json_file=os.path.join(package,'perfumes.json'),
