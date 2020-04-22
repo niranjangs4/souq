@@ -6,7 +6,7 @@ setup(
     packages=['library', 'scripts', 'resources', 'page_objects'],
     url='',
     license='',
-    author='Srinivas',
+    author='Niranjan Kumar GS',
     author_email='',
     description='Parse complete perfume men categories'
 )
